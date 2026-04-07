@@ -82,6 +82,10 @@ We take copyright seriously and ensure proper attribution for all stories in our
 - **Translation Credits**: When applicable, information about translators
 - **Usage Rights**: Clear indication of copyright status and usage permissions
 
+## Contact
+
+admin@tellstory.net
+
 ---
 
 *Thank you for being part of our storytelling journey. Together, we're building a library that celebrates the universal human tradition of sharing stories.*
